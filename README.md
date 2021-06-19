@@ -18,6 +18,9 @@ And just run the script
 python main.py
 ```
 
+## Example
+![](https://github.com/CODPUD/parser-russia-pro/blob/main/screenshots/example.png)
+
 ## License
 
 MIT
