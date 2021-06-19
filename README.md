@@ -21,6 +21,8 @@ python main.py
 ## Example
 ![](https://github.com/CODPUD/parser-russia-pro/blob/main/screenshots/example.png)
 
+![](https://github.com/CODPUD/parser-russia-pro/blob/main/screenshots/db_example.png)
+
 ## License
 
 MIT
